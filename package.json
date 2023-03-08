@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/mocha": "^10.0.1",
+    "playwright-chromium": "^1.31.2"
+  }
+}
